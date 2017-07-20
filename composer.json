@@ -1,0 +1,20 @@
+{
+	"name" : "nih-fo/plugin-search",
+	"description" : "CakePHP Plugin: Adds searching to the portals.",
+	"type" : "cakephp-plugin",
+	"keywords" : ["cakephp", "plugin", "search"],
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Brian French",
+			"role": "Developer"
+		},
+		{
+			"name": "Joshua Knust",
+			"role": "Manager"
+		} 
+	],
+	"require": {
+		"nih-fo/plugin-utilities": "1.*"
+	}
+}
