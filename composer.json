@@ -3,7 +3,7 @@
 	"description" : "CakePHP Plugin: Adds searching to the portals.",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "search"],
-	"license": "proprietary",
+	"license": "mit",
 	"authors": [
 		{
 			"name": "Brian French",
