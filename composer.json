@@ -1,5 +1,5 @@
 {
-	"name" : "nih-fo/plugin-search",
+	"name" : "fr3nch13/plugin-search",
 	"description" : "CakePHP Plugin: Adds searching to the portals.",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "search"],
@@ -15,6 +15,6 @@
 		} 
 	],
 	"require": {
-		"nih-fo/plugin-utilities": "1.*"
+		"fr3nch13/plugin-utilities": "1.*"
 	}
 }
